@@ -11,8 +11,6 @@ tags:
 <script src="/js/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
-　
-
 本大赛分为“创意组”与“成品组”两类。
 
 创意组：不会code？没关系，亮出你的idea，大家一起来PK吧！
